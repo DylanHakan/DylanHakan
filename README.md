@@ -4,7 +4,9 @@
 [![LinkeDin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dylan-hakan-calvi-corr%C3%AAa-b48902253/)
 [![INSTAGRAM](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dylaan.hakan/)
 
-![Dylan GitHub stats](https://github-readme-stats.vercel.app/api?username=DylanHakan&show_icons=true&theme=radical)
+![Dylan GitHub stats](https://github-readme-stats.vercel.app/api?username=DylanHakan&show_icons=true&theme=radical)<br/>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DylanHakan)](https://github.com/DylanHakan/github-readme-stats)<br/>
 
 ## Tecnologias que estou praticando no momento:
 
